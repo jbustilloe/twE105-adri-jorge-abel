@@ -1,4 +1,4 @@
-# Título del trabajo
+﻿# Título del trabajo
 
 Enigma
 
@@ -7,4 +7,4 @@ Enigma
 Adrian Alvarado, Abel Dominguez y Jorge Espi
 
 ## Objetivos del trabajo
-Es un codificador y decodificador de mensajes 
+Es un codificador y decodificador de mensajes. Se basa en la encriptacion de textos de distintas formas. 
