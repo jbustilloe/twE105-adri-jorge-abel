@@ -1,4 +1,4 @@
-﻿# Título del trabajo
+﻿# ENIGMA
 
 Enigma.
 Programa en código C que codifique (y descodifique) cualquier mensaje introducido por el usuario.
